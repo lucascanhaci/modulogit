@@ -1,2 +1,1 @@
-Meu primeiro sistema no GIT
-Alteração no arquivo para descrever melhor meu sistema
+Meu primeiro sistema no GIT (alterado e atualizado!)
